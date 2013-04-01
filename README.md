@@ -17,7 +17,9 @@ maxkit
 
 ### automap
 
-automap.maxpat is an abstraction that maps an arbitrary range of values to a set output range. When banged, it sets the input range based on the range of input received since the last bang. 
+automap.maxpat is an abstraction that maps an arbitrary range of values to a set output range. When banged, it sets the input range based on the range of input received since the last bang.
+
+automap requires list-accum from [cnmat](http://cnmat.berkeley.edu/downloads)
 
 ### nanokontrol
 
